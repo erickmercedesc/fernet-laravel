@@ -1,0 +1,15 @@
+{
+    "name": "erick/fernet-laravel",
+    "description": "Fernet-PHP is an implementation of the Fernet token specification in PHP for Laravel.",
+    "authors": [
+        {
+            "name": "Erick Mercedes",
+            "email": "erickmercedesemc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Erickmercedesc\\Fernet\\": "src"
+        }
+    }
+}
